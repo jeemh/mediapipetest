@@ -1,0 +1,21 @@
+# Flutter 관련 자동 생성 및 빌드 파일 제외
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+android/.gradle/
+android/key.jks
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.podspec
+ios/Flutter/App.framework
+ios/Flutter/Flutter.framework
+.DS_Store
+*.iml
+.vscode/
+.idea/
+*.lock
+*.log
